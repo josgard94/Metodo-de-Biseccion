@@ -5,7 +5,7 @@ using namespace std;
 /*  
 	Autor: Edgard Diaz
 	
-	E#ste programa realiza  la aproximación de las raciones de una funcion  utilizando el metodo de biseccion
+	Este programa realiza  la aproximación de las raciones de una funcion  utilizando el metodo de biseccion
 */
 
 
