@@ -5,7 +5,7 @@ using namespace std;
 /*  
 	Autor: Edgard Diaz
 	
-	E#ste programa realiza  la aproximación de las raciones de una funcion  utilizando el metodo de biseccion
+	E#ste programa realiza  la aproximaciÃ³n de las raciones de una funcion  utilizando el metodo de biseccion
 */
 
 
@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	
 	MetodoBiseccion P(a, b); //inicializador del objeto de la clase MetodonBiseccion
 	
-	P.Aproximar_raiz(); //Invicar el metodo de la clase responsable de realizar la aproximacion de la raiz
+	P.Aproximar_raiz(); //Invocar el metodo de la clase responsable de realizar la aproximacion de la raiz
 	
 	return 0;
 }
